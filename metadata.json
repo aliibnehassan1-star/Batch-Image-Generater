@@ -1,0 +1,6 @@
+{
+  "name": "AI Batch Image Generator",
+  "description": "A premium batch image generator app using Google's generative models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
